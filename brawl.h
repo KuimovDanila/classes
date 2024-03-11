@@ -1,4 +1,5 @@
 #include <string>
+using namespace std;
 class Brawler {
 protected:
     int hp;
